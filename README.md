@@ -1,0 +1,1 @@
+# so2_text_editor
